@@ -1,0 +1,16 @@
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.exe.config
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.exe
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.pdb
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Properties.Resources.resources
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.GenerateResource.cache
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.exe
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.pdb
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmUrun.resources
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Frmistatistik.resources
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmAdmin.resources
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmYönlendirme.resources
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmKategori.resources
+C:\Users\husey\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmGrafikler.resources
